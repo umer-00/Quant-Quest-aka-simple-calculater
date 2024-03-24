@@ -1,0 +1,21 @@
+{
+  "name": "quant-quest-aka-simple-calculater",
+  "version": "1.0.0",
+  "description": "simple calculater using node.js $ inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "quant-quest-aka-simple-calculater": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umer_00",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
